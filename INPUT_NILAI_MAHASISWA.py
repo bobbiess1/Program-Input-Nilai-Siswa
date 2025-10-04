@@ -5,8 +5,8 @@ print("1. BarBar")
 print("2. Bobi") 
 print("3. DAFFA") 
 print("4. FFAZ")
-nama = ["Akbar Maulana", "Muhammad Habib", "Dafiq Mafaaza Mukti", "Fadhil Dzaki Faiz"] 
-nim = ["21120125130076", "21120125130077", "21120125130078", "21120125130079"] 
+nama = ["Barbar", "Bobi", "DAFFA", "FFAZ"] 
+nim = ["0076", "0077", "0078", "0079"] 
 
 nilai = []
 print("=== INPUT NILAI MAHASISWA ===")
